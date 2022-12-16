@@ -19,7 +19,7 @@
     npm install
 
  ### Run unit test
-    npm test
+    npm run test
 
  ### Optional - run application port 2000
     npm start
